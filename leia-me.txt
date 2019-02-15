@@ -1,0 +1,1 @@
+Esse aplicativo mostra o uso do ProgressBar. Ele mostra na tela do usuário um efeito de "carregamento" pelo tempo estipulado com Thread.sleep().
